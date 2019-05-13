@@ -1,0 +1,30 @@
+#nav1{
+    height: 120px;
+}
+#user_admin{
+
+}
+#list{
+    width: 1200px;
+    margin: auto;
+    overflow-y: scroll;
+}
+#basurero{
+    float: right;
+}
+#caracteristicas{
+    float: right;
+    background-color: white;
+}
+#buttons{
+    float: right;
+}
+#add_user1{
+    float: right;
+}
+#circle1{
+    color: #488DDE;
+}
+#circle2{
+    color: #90F389;
+}
